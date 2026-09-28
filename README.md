@@ -1,5 +1,7 @@
 # ZhuaTech TranslatorAI
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 企业多语言内容，从机器草稿到人工发布
 
 TranslatorAI 是知华科技提供的企业翻译与译审协作社区源码版，适用于产品手册、合同、运营内容和多语言网站的流程学习与技术研究。
